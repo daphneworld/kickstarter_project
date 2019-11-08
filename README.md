@@ -12,5 +12,5 @@ This project examines Kickstarter data set to predict pledge percentages.For mor
   
   3. [ML Analysis](https://github.com/daphneworld/kickstarter_project/blob/master/ML%20analysis%20of%20Kickstarter%20Data.ipynb)
   
-  4. [Data Report]
+  4. [Data Report](https://github.com/daphneworld/kickstarter_project/blob/master/KICKSTARTER%20DATA%20PLEDGE%20PERCENTAGE%20PREDICTION.pdf)
 
